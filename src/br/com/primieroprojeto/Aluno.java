@@ -1,4 +1,4 @@
-package br.com.projetojs;
+package br.com.primieroprojeto;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package br.com.projetojs;
+package br.com.primieroprojeto;
 
 import javax.swing.JOptionPane;
 
