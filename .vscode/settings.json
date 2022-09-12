@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "editor.renderWhitespace": "none",
+    "editor.cursorStyle": "underline",
+    "editor.wordWrap": "on",
+    "editor.accessibilityPageSize": 15,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.defaultFormatter": "danielpinto8zz6.c-cpp-compile-run",
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.experimental.pasteActions.enabled": true
+}
