@@ -2,7 +2,6 @@ package br.com.projetojs;
 
 import java.util.Date;
 
-
 public class Aluno {
     private String nome;
     private String matricula;
