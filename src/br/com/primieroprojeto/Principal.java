@@ -21,7 +21,7 @@ public class Principal {
 
       certificado.emitirCertificadoDoAluno();
 
-      continuar = JOptionPane.showInputDialog("DESJA MATRICULAR NOVO ALUNO?[S/N]").toUpperCase();
+      continuar = JOptionPane.showInputDialog("DESEJA MATRICULAR NOVO ALUNO?[S/N]").toUpperCase();
 
     }
    while(continuar.equals("S"));
