@@ -1,4 +1,5 @@
 
+
 import javax.swing.JOptionPane;
 
 public class Certificado  {
@@ -44,4 +45,5 @@ public String toString() {
 }
     
     
+
 
